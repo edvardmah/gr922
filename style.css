@@ -1,0 +1,32 @@
+h1{
+    color: red;
+}
+
+.paragraf{
+    color: red;
+}
+
+.blue{
+    color: blue;
+}
+
+.img{
+    height: 300px;
+}
+
+.button {
+    height: 50px;
+    width: 140px;
+    background: black;
+    display: flex;
+    color: #fff;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    font-size: 21px;
+}
+
+.button:hover{
+    background: red;
+    transition: 1s;
+}
